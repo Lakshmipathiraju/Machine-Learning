@@ -6,6 +6,7 @@ classification is the problem of identifying to which of a set of categories  a 
 example:
 ======== 
 1)assigning a given email into "spam" or "non-spam" classes
+
 2)assigning a diagnosis to a given patient as described by observed characteristics of the patient 
    (gender, blood pressure, presence or absence of certain symptoms, etc.)
 
@@ -15,12 +16,9 @@ some more Examples of Classification Problems
 2.fraud detection
 3.optical character recognition
 4.machine vision(e.g., face detection)
-5.natural-language processing
-(e.g., spoken language understanding)
-6.market segmentation
-(e.g.: predict if customer will respond to promotion)
-7.bioinformatics
-(e.g., classify proteins according to their function)
+5.natural-language processing(e.g., spoken language understanding)
+6.market segmentation(e.g.: predict if customer will respond to promotion)
+7.bioinformatics(e.g., classify proteins according to their function)
 
 
 #[height, weight, shoe size]
